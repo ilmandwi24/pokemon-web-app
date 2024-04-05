@@ -1,0 +1,5 @@
+Jalankan
+1. npm run install
+
+Kemudian Jalankan
+2. npm run dev
